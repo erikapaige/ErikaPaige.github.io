@@ -7,8 +7,8 @@
   }
 
   .image {
-    width: 400px;
-    height: 300px;
+    width:200px;
+    height:100px;
     padding: 0px;
     float: left;
     border: 10px solid black;
