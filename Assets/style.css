@@ -1,40 +1,75 @@
-  h1 {
-    font-family: sans-serif;
-  }
+body {
+  background-color: lightblue;
+}
 
-  .header {
-    font-family: sans-serif
-  }
+#myNav {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(2, 2, 2);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
 
-  .image {
-    width:200px;
-    height:100px;
-    padding: 0px;
-    float: left;
-    border: 10px solid black;
-    margin: 3px 12px 3px 0px;
-  }
+/* #aboutMe {
+  font-family: sans-serif;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  margin: 0px;
+}
 
-  .bodyText {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 14px;
-    margin: 30px;
-  }
+#contact {
+  font-family: sans-serif;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  left: 300px;
+  top: 10px;
+  margin left: 10px;
+} */
 
-  .name {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(255, 213, 0)
-  }
+h1 {
+  font-family: sans-serif;
+  position: realative;
+  top:50px;
+}
 
-  .image {
-    width: 400px;
-    height: 300px;
-    padding: 0px;
-    float: left;
-    border: 10px solid black;
-    margin: 3px 12px 3px 0px;
-  }
+.header {
+  font-family: sans-serif
+}
 
-  .name {
-    display: inline
-  }
+.image {
+  width: 200px;
+  height: 100px;
+  padding: 0px;
+  float: left;
+  border: 10px solid black;
+  margin: 3px 12px 3px 0px;
+}
+
+.bodyText {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  margin: 30px;
+}
+
+.name {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(255, 213, 0)
+}
+
+.image {
+  width: 400px;
+  height: 300px;
+  padding: 0px;
+  float: left;
+  border: 10px solid black;
+  margin: 3px 12px 3px 0px;
+}
+
+.name {
+  display: inline
+}
